@@ -1,0 +1,1 @@
+"""Geradores de PDFs auxiliares."""

@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Build / empacotamento
+build/
+dist/
+*.spec.bak
+
+# Dados locais e arquivos gerados
+data/
+backups/
+pdfs/
+*.xlsx
+*.xlsm
+*.xls
+*.pdf
+
+# Logs e arquivos temporarios
+*.log
+*.tmp
+*.bak
+~$*
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Segredos e configuracoes locais
+.env
+.env.*
+secrets/
+credentials/
+
+!requirements.txt
+!pytest.ini
+!FichasTecnicas.spec
