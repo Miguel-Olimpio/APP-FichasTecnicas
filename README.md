@@ -45,29 +45,9 @@ O app foi pensado para pequenos negocios, como:
 
 ## LAYOUT E MODO DE USAR
 
-As imagens demonstrativas do app podem ser adicionadas na pasta:
+Ao abrir o aplicativo, o usuario tem acesso as principais areas de cadastro, calculo e emissao de documentos da ficha tecnica.
 
-```text
-docs/images/
-```
-
-Sugestao de imagens para documentacao:
-
-```text
-docs/images/tela-inicial.png
-docs/images/ingredientes.png
-docs/images/ficha-tecnica.png
-docs/images/precificacao.png
-docs/images/pdf-gerado.png
-```
-
-Quando as imagens forem adicionadas, elas podem ser inseridas nesta secao assim:
-
-```md
-![Tela inicial](docs/images/tela-inicial.png)
-![Cadastro de ingredientes](docs/images/ingredientes.png)
-![Ficha tecnica](docs/images/ficha-tecnica.png)
-```
+![imageFichas1](https://github.com/Miguel-Olimpio/APP-FichasTecnicas/assets/107503116/imageFichas1)
 
 ### 1. Cadastre os ingredientes
 
@@ -86,6 +66,8 @@ Exemplos:
 
 Esses ingredientes serao usados posteriormente nas fichas tecnicas.
 
+![imageFichas2](https://github.com/Miguel-Olimpio/APP-FichasTecnicas/assets/107503116/imageFichas2)
+
 ### 2. Cadastre o produto
 
 Depois de cadastrar os ingredientes, crie um produto e informe os dados principais, como nome, rendimento, tipo da ficha e informacoes complementares.
@@ -95,6 +77,8 @@ Depois de cadastrar os ingredientes, crie um produto e informe os dados principa
 Na ficha tecnica, informe quais ingredientes fazem parte do produto e suas respectivas quantidades.
 
 O sistema usa essas informacoes para calcular o custo da receita.
+
+![imageFichas3](https://github.com/Miguel-Olimpio/APP-FichasTecnicas/assets/107503116/imageFichas3)
 
 ### 4. Use produtos compostos quando necessario
 
@@ -123,6 +107,8 @@ Essas informacoes apoiam decisoes sobre:
 - padronizacao;
 - viabilidade do produto.
 
+![imageFichas4](https://github.com/Miguel-Olimpio/APP-FichasTecnicas/assets/107503116/imageFichas4)
+
 ### 6. Gere PDFs
 
 O app permite gerar PDFs das fichas tecnicas.
@@ -132,6 +118,8 @@ Os arquivos sao salvos em:
 ```text
 pdfs/
 ```
+
+![imageFichas5](https://github.com/Miguel-Olimpio/APP-FichasTecnicas/assets/107503116/imageFichas5)
 
 ### 7. Gere etiquetas
 
@@ -259,7 +247,6 @@ app/
   utils/
   pdf/
 tests/
-docs/
 icon/
 pyinstaller_hooks/
 main.py
