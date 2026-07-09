@@ -47,7 +47,7 @@ O app foi pensado para pequenos negocios, como:
 
 Ao abrir o aplicativo, o usuario tem acesso as principais areas de cadastro, calculo e emissao de documentos da ficha tecnica.
 
-![imageFichas1](https://github.com/Miguel-Olimpio/APP-FichasTecnicas/assets/107503116/imageFichas1)
+![imageFichas1](https://github.com/user-attachments/assets/103c7a22-abe6-4d10-a2c2-5ab93bb15024)
 
 ### 1. Cadastre os ingredientes
 
@@ -66,7 +66,7 @@ Exemplos:
 
 Esses ingredientes serao usados posteriormente nas fichas tecnicas.
 
-![imageFichas2](https://github.com/Miguel-Olimpio/APP-FichasTecnicas/assets/107503116/imageFichas2)
+![imageFichas2](https://github.com/user-attachments/assets/ba142998-aec0-4877-8807-571f110b6572)
 
 ### 2. Cadastre o produto
 
@@ -78,7 +78,7 @@ Na ficha tecnica, informe quais ingredientes fazem parte do produto e suas respe
 
 O sistema usa essas informacoes para calcular o custo da receita.
 
-![imageFichas3](https://github.com/Miguel-Olimpio/APP-FichasTecnicas/assets/107503116/imageFichas3)
+![imageFichas3](https://github.com/user-attachments/assets/6cda6e57-87e9-4d21-8a7f-7d5898413abe)
 
 ### 4. Use produtos compostos quando necessario
 
@@ -107,7 +107,7 @@ Essas informacoes apoiam decisoes sobre:
 - padronizacao;
 - viabilidade do produto.
 
-![imageFichas4](https://github.com/Miguel-Olimpio/APP-FichasTecnicas/assets/107503116/imageFichas4)
+![imageFichas4](https://github.com/user-attachments/assets/8ac141f1-0583-467f-9a3d-de406d8d7ba6)
 
 ### 6. Gere PDFs
 
@@ -119,7 +119,7 @@ Os arquivos sao salvos em:
 pdfs/
 ```
 
-![imageFichas5](https://github.com/Miguel-Olimpio/APP-FichasTecnicas/assets/107503116/imageFichas5)
+![imageFichas5](https://github.com/user-attachments/assets/6205666f-8b1d-4605-ad1f-dd1e4bec1547)
 
 ### 7. Gere etiquetas
 
